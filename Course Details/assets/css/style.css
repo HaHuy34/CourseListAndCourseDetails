@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(249, 229, 229);
+}
+
+.course-details {
+  margin-top: 50px;
+}
+
+.back {
+  display: inline-block;
+  padding: 10px 7px;
+  margin-left: 130px;
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: red;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.back:hover {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.content {
+  height: 600px;
+  width: 1200px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  padding: 0 30px 0 30px;
+}
+
+.title {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+img {
+  height: 15px;
+  width: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
